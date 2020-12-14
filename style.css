@@ -4,11 +4,11 @@
   font-family: serif;
 }
 
-html{
-margin: 0 auto;
-}
+
 
 body{
+  width: 1366px;
+  display: block;
 margin: 0 auto;
 }
 
