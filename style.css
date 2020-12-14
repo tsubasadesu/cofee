@@ -4,6 +4,9 @@
   font-family: serif;
 }
 
+body{
+margin: 0 auto;
+}
 body header {
   width: 1366px;
   height: 170px;
