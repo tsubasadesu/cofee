@@ -4,9 +4,14 @@
   font-family: serif;
 }
 
+html{
+margin: 0 auto;
+}
+
 body{
 margin: 0 auto;
 }
+
 body header {
   width: 1366px;
   height: 170px;
