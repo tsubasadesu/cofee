@@ -35,7 +35,7 @@ body header .first-header h1 {
 body header .first-header .btn {
   display: inline-block;
   vertical-align: top;
-   margin: 18px 0 0 66%;
+   margin: 18px 0 0 50%;
 }
 
 body header .first-header .btn a {
@@ -498,7 +498,7 @@ body .info .inner-txt .inner-txt2 ul li {
 
 body .second-info {
   height: 375px;
-  width: 1366px;
+  width: 100%;
   background: #011b3f;
   text-align: center;
 }
